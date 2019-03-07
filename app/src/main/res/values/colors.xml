@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="sierra_leone_top">#7BAFDE</color>
+    <color name="sierra_leone_middle">#FFFFFF</color>
+    <color name="sierra_leone_bottom">#7BAFDE</color>
+
+    <color name="romania_top">#0066B3</color>
+    <color name="romania_middle">#FFF100</color>
+    <color name="romania_bottom">#ED1C24</color>
+
+</resources>
